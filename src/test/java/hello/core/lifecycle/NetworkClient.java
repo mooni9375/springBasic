@@ -35,7 +35,7 @@ public class NetworkClient {
     }
 
     /**
-     * @PostCOnstruct
+     * @PostConstruct
      * @PreDestroy
      *
      *  javax 패키지 -> 자바 표준 기능 : 스프링 컨테이너가 아니더라도 동작함
